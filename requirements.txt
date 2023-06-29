@@ -2,3 +2,4 @@ yfinance
 streamlit
 pyecharts
 prophet
+termcolor
