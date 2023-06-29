@@ -1,5 +1,4 @@
 yfinance
-talib
 streamlit
 pyecharts
 prophet
