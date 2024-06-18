@@ -4,3 +4,4 @@ pyecharts
 prophet
 termcolor
 streamlit_echarts
+scilit-learn=1.4.2
