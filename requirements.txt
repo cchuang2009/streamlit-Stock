@@ -1,4 +1,5 @@
 yfinance
+scipy==1.11.2
 streamlit
 pyecharts
 prophet

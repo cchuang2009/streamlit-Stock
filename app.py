@@ -39,6 +39,10 @@ stocks = {
     '6515.TW': '穎崴',
     '6691.TW': '洋基工程',
     '3008.TW': '大立光',
+    'MSFT': '微軟',
+    'NVDA': '輝達',
+    'ARM': '安謀',
+    'AAPL':'蘋果',
     # Add more stocks and their corresponding symbols here
 }
 
@@ -433,5 +437,5 @@ if symbol:
 )
 
         
-st_pyecharts(line_prediction,height="400px")
+#st_pyecharts(line_prediction,height="400px")
         
